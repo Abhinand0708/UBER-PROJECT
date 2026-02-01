@@ -1,0 +1,24 @@
+📊 Data Description
+The dataset contains 21 features including:
+
+| Feature | Description | |---------|-------------| | Date/Time | Booking timestamp | | Booking ID | Unique ride identifier | | Booking Status | Completed/Cancelled/Incomplete | | Customer ID | Unique customer identifier | | Vehicle Type | Bike/E-Bike/Go Mini/Go Sedan/Premier/Uber XL | | Pickup/Drop Location | Delhi-NCR regions | | Avg VTAT | Vehicle Turnaround Time | | Avg CTAT | Customer Turnaround Time | | Booking Value | Total fare amount | | Ride Distance | Trip distance in km | | Driver/Customer Ratings | 1-5 scale ratings | | Payment Method | Cash/Card/UPI/Wallet |
+
+🔧 Key Analysis Steps
+Data Preprocessing
+
+Datetime feature engineering
+Missing value imputation
+Cancellation categorization
+Data type optimization
+Exploratory Data Analysis
+
+Demand pattern analysis
+Revenue distribution
+Completion rate calculations
+Customer behavior insights
+Visualization
+
+Time series analysis
+Geographic route mapping
+Performance comparisons
+Interactive dashboards
